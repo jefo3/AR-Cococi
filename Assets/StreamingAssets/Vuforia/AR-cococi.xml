@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="igreja" size="1600.000000 1200.000000" />
+    <ImageTarget name="b18ffe61-8b04-423c-af7c-b5cd5607ca78" size="1600.000000 1200.000000" />
+    <ImageTarget name="g_CASARAO" size="400.000000 300.000000" />
+    <ImageTarget name="ruinasCasasOutras" size="800.000000 600.000000" />
+  </Tracking>
+</QCARConfig>
